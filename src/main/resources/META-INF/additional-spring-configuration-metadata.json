@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "cors.origins",
+      "type": "java.lang.String",
+      "description": "Define all the origins allowed for CORS requests. If not set, CORS requests will not be allowed."
+    }
+  ]
+}

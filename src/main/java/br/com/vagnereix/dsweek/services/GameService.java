@@ -61,7 +61,7 @@ public class GameService {
         new GameMinDTO(
           game.getId(),
           game.getTitle(),
-          game.getYear(),
+          game.getGameYear(),
           game.getImgUrl(),
           game.getShortDescription()
         )
